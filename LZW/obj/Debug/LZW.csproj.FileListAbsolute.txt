@@ -1,0 +1,13 @@
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\bin\Debug\LZW.exe.config
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\LZW.csprojResolveAssemblyReference.cache
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\MainWindow.baml
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\MainWindow.g.cs
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\App.g.cs
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\LZW_MarkupCompile.cache
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\LZW.g.resources
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\LZW.Properties.Resources.resources
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\LZW.csproj.GenerateResource.Cache
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\bin\Debug\LZW.exe
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\bin\Debug\LZW.pdb
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\LZW.exe
+c:\users\hw\documents\visual studio 2013\Projects\LZW\LZW\obj\Debug\LZW.pdb
